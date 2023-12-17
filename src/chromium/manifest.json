@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Czo Slick Theme",
+  "version": "1.5",
+  "theme": {
+    "colors": {
+      "toolbar": [74, 77, 91],
+      "frame": [9, 10, 29],
+      "ntp_background": [9, 10, 29],
+      "bookmark_text": [230, 230, 230],
+      "ntp_text": [230, 230, 230],
+      "tab_text": [230, 230, 230],
+      "tab_background_text": [91, 97, 121],
+      "tab_background_text_inactive":  [91, 97, 121],
+      "tab_background_text_incognito": [91, 97, 121],
+      "tab_background_text_incognito_inactive":  [91, 97, 121]
+    },
+    "tints": {
+      "buttons": [0.6, 0.9, 0.8],
+      "frame_inactive": [-1, -1, -1],
+      "frame_incognito": [-1, -1, -1],
+      "frame_incognito_inactive": [-1, -1, -1]
+    }
+  }
+}
