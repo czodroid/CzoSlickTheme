@@ -1,6 +1,6 @@
 # Czo Slick Theme
 
-- Slick Theme for Chromium and Firefox, an old OpusOS theme from 2008
+- OpusOS Slick Theme (from 2012) for Chromium and Firefox
 
 ![Img Czo Slick Theme](/store/ff-czo-slick.png)
 
